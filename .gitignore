@@ -4,3 +4,5 @@ __pycache__/
 .env
 .DS_Store
 node_modules/
+landscaper-landing/node_modules/
+landscaper-landing/.next/
